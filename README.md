@@ -11,20 +11,20 @@ This repository is not meant to have the content directly, but rather point to r
 ## 🗺️ My "Zero to Certified" Blueprint
 This is the exact sequence of resources I used to go from zero knowledge to exam-ready.
 
-### **Phase 1: Building the Foundation (Week 1)**
+### **Phase 1: Building the Foundation**
 * **[Professor Messer’s SY0-701 Course](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)**: Start here. Watch every video. Use his course to build your primary vocabulary.
 * **[Pete Zerger’s SY0-701 Exam Cram](https://youtube.com/playlist?list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n)**: After Messer, watch this to see how concepts connect across different domains.
 
-### **Phase 2: Technical Deep-Dives (Week 2-3)**
+### **Phase 2: Technical Deep-Dives**
 * **[wilsonvs SY0-701 Repo](https://github.com/wilsonvs/CompTIA-Security-SY0-701)**: The most detailed markdown notes available. I used this to read up on topics that didn't "click" from the videos.
 * **[MaheshShukla1 Framework Guide](https://github.com/MaheshShukla1/CompTIA-Security-Plus-SY0-701-Notes-CheatSheet-Exam-Prep)**: Excellent for memorizing NIST, ISO, and GDPR regulations (Domain 5).
 * **[IanKuzmik Reference Repo](https://github.com/IanKuzmik/comptia_securityPlus_701)**: Use this as an additional perspective on technical implementation and architecture.
 
-### **Phase 3: Mastering the PBQs (Week 3)**
+### **Phase 3: Mastering the PBQs**
 * **[Cyberkraft PBQ Walkthroughs](https://youtube.com/playlist?list=PLUkY1OVVHzVljGOe8WAkKGc4GT8ZAKaav)**: Do not skip these. He walks through exactly how to solve the "drag and drop" and configuration questions.
 * **[Andrew Ramdayal's Practical Breakdown](https://youtu.be/yPqSLJG8Rt0)**: Watch this to understand the specific "mindset" needed to answer CompTIA's scenario-based questions.
 
-### **Phase 4: The Simulation Sprint (Week 4)**
+### **Phase 4: The Simulation Sprint**
 * **[CertPreps.com Simulations](https://certpreps.com)**: This is where you test your mettle. Aim for that 70-80% threshold.
 * **[Packt Publishing Training Guide](https://github.com/PacktPublishing/CompTIA-Security-SY0-701-Full-Training-Guide)**: I used their PDF supplements for quick acronym drills in the final 48 hours.
 
