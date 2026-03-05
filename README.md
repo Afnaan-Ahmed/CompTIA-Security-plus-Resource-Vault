@@ -1,47 +1,70 @@
-# The Ultimate CompTIA Security+ (SY0-701) Definitive Guide 🛡️
+# 🛡️ CompTIA Security+ (SY0-701) | The Ultimate Reference Index
 
-Welcome to the most comprehensive, repository full of hand-picked and curated resources for the SY0-701 exam.
-
-This isn't just a folder of PDFs, it is a **structured, 4-week path to certification.**
-
-You shouldn't need anything else if you follow this and put in the work!
-
-> [!IMPORTANT]
-> **The CertPreps Benchmark:** Use [CertPreps.com](https://certpreps.com) for your final simulations. 
-> **Warning:** Their exams are designed to be significantly harder than the actual test. If you are consistently scoring **70-80%** on CertPreps, you are ready. You will likely find the actual CompTIA exam easier by comparison.
+This repository is a curated compilation of the resources I found most effective during my preparation for the **SY0-701** exam. Rather than hunting through dozens of outdated GitHub repos, I have indexed only the "Gold Standard" materials that are currently relevant for the 701 objectives.
 
 ---
 
-## 🗺️ The "Zero to Certified" Roadmap (4 Weeks)
+## 🗺️ My "Zero to Certified" Blueprint
+This is the exact sequence of resources I used to go from zero knowledge to exam-ready.
 
-| Week | Focus | Primary Goal |
+### **Phase 1: Building the Foundation (Week 1)**
+* **[Professor Messer’s SY0-701 Course](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)**: Start here. Watch every video. Use his course to build your primary vocabulary.
+* **[Pete Zerger’s SY0-701 Exam Cram](https://youtube.com/playlist?list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n)**: After Messer, watch this to see how concepts connect across different domains.
+
+### **Phase 2: Technical Deep-Dives (Week 2-3)**
+* **[wilsonvs SY0-701 Repo](https://github.com/wilsonvs/CompTIA-Security-SY0-701)**: The most detailed markdown notes available. I used this to read up on topics that didn't "click" from the videos.
+* **[MaheshShukla1 Framework Guide](https://github.com/MaheshShukla1/CompTIA-Security-Plus-SY0-701-Notes-CheatSheet-Exam-Prep)**: Excellent for memorizing NIST, ISO, and GDPR regulations (Domain 5).
+* **[IanKuzmik Reference Repo](https://github.com/IanKuzmik/comptia_securityPlus_701)**: Use this as an additional perspective on technical implementation and architecture.
+
+### **Phase 3: Mastering the PBQs (Week 3)**
+* **[Cyberkraft PBQ Walkthroughs](https://youtube.com/playlist?list=PLUkY1OVVHzVljGOe8WAkKGc4GT8ZAKaav)**: Do not skip these. He walks through exactly how to solve the "drag and drop" and configuration questions.
+* **[Andrew Ramdayal's Practical Breakdown](https://youtu.be/yPqSLJG8Rt0)**: Watch this to understand the specific "mindset" needed to answer CompTIA's scenario-based questions.
+
+### **Phase 4: The Simulation Sprint (Week 4)**
+* **[CertPreps.com Simulations](https://certpreps.com)**: This is where you test your mettle. Aim for that 70-80% threshold.
+* **[Packt Publishing Training Guide](https://github.com/PacktPublishing/CompTIA-Security-SY0-701-Full-Training-Guide)**: I used their PDF supplements for quick acronym drills in the final 48 hours.
+
+---
+
+## 📂 Quick-Access Reference Table
+
+| Resource | Best For... | Source Type |
 | :--- | :--- | :--- |
-| **Week 1** | **Foundations & Threats** | Master Domain 1 & 2 (34% of Exam) |
-| **Week 2** | **Architecture & Design** | Master Cloud, Zero Trust, and Secure Coding |
-| **Week 3** | **Operations & GRC** | Incident Response, Forensics, and Risk Management |
-| **Week 4** | **The Simulation Sprint** | PBQ Drills & CertPreps Mastery |
-
-This timeline is for speedrunners, If you've got time, I recommend you to go slow and digest the content as it is the foundation of your cybersecurity career!
-
----
-
-## 📂 Repository Structure (Domain-Based)
-
-* [**01 General Security Concepts**](./01_Domain_1_Concepts/README.md) - CIA Triad, Control Types, Crypto.
-* [**02 Threats, Attacks & Vulnerabilities**](./02_Domain_2_Threats/README.md) - Malware, Social Engineering, Actors.
-* [**03 Security Architecture**](./03_Domain_3_Architecture/README.md) - Cloud, Hybrid, Zero Trust, Resilience.
-* [**04 Security Operations**](./04_Domain_4_Operations/README.md) - Incident Response, Logging, Vulnerability Management.
-* [**05 Security Management**](./05_Domain_5_Management/README.md) - GRC, Ethics, Risk, Frameworks.
-* [**06 PBQ & Lab Vault**](./06_PBQ_Vault/README.md) - Performance-Based Question Walkthroughs.
-* [**07 Reference Vault**](./07_Reference_Repos/README.md) - Links to curated external GitHub resources.
+| **CertPreps** | **Final Practice & High-Difficulty Drills** | Simulation |
+| **Professor Messer** | Visualizing concepts & foundational learning | Video |
+| **wilsonvs** | In-depth objective-by-objective reading | GitHub |
+| **Cyberkraft** | Learning how to handle PBQs/Labs | Video |
+| **MaheshShukla1** | Governance, Risk, and Frameworks | GitHub |
 
 ---
 
-## 📺 Top-Tier Video Resources
-* **Full Course:** [Professor Messer SY0-701 Playlist](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)
-* **Exam Cram:** [Pete Zerger's Full SY0-701 Review](https://youtube.com/playlist?list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n)
-* **PBQ Specialist:** [Cyberkraft Walkthroughs](https://youtube.com/playlist?list=PLUkY1OVVHzVljGOe8WAkKGc4GT8ZAKaav)
-* **Last Minute Tips:** [Andrew Ramdayal's 701 Breakdown](https://youtu.be/yPqSLJG8Rt0)
+> [!CAUTION]
+> **The CertPreps Benchmark:** I found [CertPreps.com](https://certpreps.com) to be the most critical tool in my kit. Their simulations are intentionally more difficult than the actual exam. If you manage to consistently get **70-80%** on CertPreps simulations, you'll definitely pass the real exam because this is significantly more difficult.
+
 
 ---
-*Created for the community. Stay Secure.*
+
+## ⚡ The "Cheat Sheet" Essentials
+These are the evergreen facts I had to memorize before walking into the testing center.
+
+### **Common Ports to Know**
+* **SSH:** 22
+* **DNS:** 53
+* **HTTPS:** 443
+* **LDAPS:** 636
+* **RDP:** 3389
+
+### **The Incident Response Steps (NIST)**
+1.  Preparation
+2.  Detection & Analysis
+3.  Containment, Eradication, & Recovery
+4.  Post-Incident Activity (Lessons Learned)
+
+---
+
+## 💬 Community Links
+* [r/CompTIA Reddit](https://www.reddit.com/r/CompTIA/) - Where I checked for exam trends and encouragement.
+* [Professor Messer Discord](https://www.professormesser.com/discord/) - Great for real-time questions.
+
+---
+*Created as a definitive guide for fellow students. If you find a broken link or a better resource, please open a Pull Request!*
