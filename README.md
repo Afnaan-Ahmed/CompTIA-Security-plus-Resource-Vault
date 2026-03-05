@@ -1,6 +1,10 @@
-# 🛡️ CompTIA Security+ (SY0-701) | The Ultimate Reference Index
+# 🛡️ CompTIA Security+ (SY0-701) - Reference Index
 
-This repository is a curated compilation of the resources I found most effective during my preparation for the **SY0-701** exam. Rather than hunting through dozens of outdated GitHub repos, I have indexed only the "Gold Standard" materials that are currently relevant for the 701 objectives.
+This repository is a curated compilation of the resources I found most effective during my preparation for the **SY0-701** exam. 
+
+Rather than hunting through dozens of outdated GitHub repos, I have indexed only the "Gold Standard" materials that are currently relevant for the 701 objectives.
+
+This repository is not meant to have the content directly, but rather point to relevant and curated content.
 
 ---
 
